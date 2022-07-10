@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.168f6a2a.css",
+    "main.js": "/static/js/main.55e855c2.js",
+    "static/js/787.69431551.chunk.js": "/static/js/787.69431551.chunk.js",
+    "static/media/nbg.jpg": "/static/media/nbg.6dacdaf16bb5c1be2459.jpg",
+    "static/media/box.jpg": "/static/media/box.4f8b31314e6e27be6170.jpg",
+    "static/media/botellas.jpg": "/static/media/botellas.64758e377bb0e4155874.jpg",
+    "static/media/shampoo.jpg": "/static/media/shampoo.2196d9fba116bb9a468d.jpg",
+    "index.html": "/index.html",
+    "main.168f6a2a.css.map": "/static/css/main.168f6a2a.css.map",
+    "main.55e855c2.js.map": "/static/js/main.55e855c2.js.map",
+    "787.69431551.chunk.js.map": "/static/js/787.69431551.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.168f6a2a.css",
+    "static/js/main.55e855c2.js"
+  ]
+}

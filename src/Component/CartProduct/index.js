@@ -1,7 +1,5 @@
 import React from "react";
 import { useState } from "react";
-import product from '../../Assets/botellas.jpg';
-import shampoo from '../../Assets/shampoo.jpg';
 import { FaTrash } from "react-icons/fa";
 import { useDispatch } from "react-redux";
 import { removeItem } from "../../Slices/cartSlice";
@@ -12,7 +10,6 @@ function CartProduct(props) {
 	
 
 	const dispatch = useDispatch();
-	const [hideProduct, setStatus] = useState(false);
 
 	const handleChange = (event) => {
 		props.onChange(event);
