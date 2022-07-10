@@ -46,7 +46,7 @@ function ProductList(){
     {
       dispatch(getProductsFiltered(query));
     }
-  }, [dispatch, query, category]);
+  }, [dispatch, query, category, productData]);
   
   if(productData !== null && productData.length > 0){
     length = productData.length;
